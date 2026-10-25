@@ -1,0 +1,6 @@
+{
+  "name": "BAQDAD Shop Management System",
+  "description": "Comprehensive shop management system featuring inventory tracking, POS sales, customer records, debt ledgers, revenue analysis, and expense management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
